@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "itoloh": {
+    "host": "45.90.228.95",
+    "port": 3306,
+    "url": "mysql://u119707057_itoloh:Jakarta06@45.90.228.95/u119707057_itoloh",
+    "database": "u119707057_itoloh",
+    "password": "Jakarta06",
+    "name": "itoloh",
+    "user": "u119707057_itoloh",
+    "connector": "mysql"
+  }
+}

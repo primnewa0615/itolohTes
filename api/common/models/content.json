@@ -1,0 +1,36 @@
+{
+  "name": "Content",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "userId": {
+      "type": "number",
+      "required": true
+    },
+    "kOfContent": {
+      "type": "string",
+      "required": true
+    },
+    "fileName": {
+      "type": "string",
+      "required": true
+    },
+    "caption": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "user": {
+      "type": "belongsTo",
+      "model": "User",
+      "foreignKey":""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

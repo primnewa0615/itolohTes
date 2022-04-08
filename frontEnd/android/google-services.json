@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893683873523",
+    "project_id": "storage-97007",
+    "storage_bucket": "storage-97007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893683873523:android:e8de285f38c00c86fa2986",
+        "android_client_info": {
+          "package_name": "com.itoloh.medsos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893683873523-tv23flqf6uq298clqb9ps6lfnmbebv7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsdeQj-yBlMhDZoXs7JQpvjIf1jy5TzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893683873523-tv23flqf6uq298clqb9ps6lfnmbebv7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

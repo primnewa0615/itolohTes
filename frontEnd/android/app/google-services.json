@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643379350670",
+    "project_id": "itolohstorage",
+    "storage_bucket": "itolohstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643379350670:android:53ce7217527ed019d88ddf",
+        "android_client_info": {
+          "package_name": "com.ituloh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643379350670-0tajo1s36fpj833526e6ck7lpa5vtlkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQtFE8qVCR1aO1-WwfUwWYXVE4mM4DXDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643379350670-0tajo1s36fpj833526e6ck7lpa5vtlkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
